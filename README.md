@@ -1,5 +1,5 @@
-[![MasterHead](https://github.com/KhushiBhadange/KhushiBhadange/blob/main/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966.gif)](https://KhushiBhadange.io)
-<h1 align="center">Hi 👋, I'm Khushi Bhadange</h1>
+[![MasterHead]()](https://KhushiBhadange.io)
+<h1 align="center">Hi 👋, I'm Khushi Bhadange</h1>https://github.com/Atharvapj16/Github_Profile/blob/main/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f62616e6e65722d62672e676966.gif
 <h3 align="center">Undergrad Student Focusing On Web Development And Data Science</h3>
 <br>
 
